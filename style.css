@@ -232,14 +232,14 @@ header .navbar ul li a:hover{
 .education .box-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     padding:1rem 0;
     padding-left: 3rem;
 }
 
 .education .box-container .box{
-    width:27rem;
+    width:30rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
@@ -255,13 +255,13 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box h3{
-    font-size: 2rem;
+    font-size: 2.8rem;
     color:#fff;
     padding-top: 1.5rem;
 }
 
 .education .box-container .box p{
-    font-size: 1.4rem;
+    font-size: 2rem;
     color:#eee;
     padding: 1rem 0;
 }
@@ -274,7 +274,7 @@ header .navbar ul li a:hover{
     border-radius: 50%;
     line-height: 5rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
     color:#fff;
     background:var(--yellow);
 }
@@ -282,14 +282,14 @@ header .navbar ul li a:hover{
 .experiences .box-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     padding:1rem 0;
     padding-left: 3rem;
 }
 
 .experiences .box-container .box{
-    width:27rem;
+    width:35rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
@@ -305,15 +305,16 @@ header .navbar ul li a:hover{
 }
 
 .experiences .box-container .box h3{
-    font-size: 2rem;
+    font-size: 2.8rem;
     color:#fff;
     padding-top: 1.5rem;
 }
 
 .experiences .box-container .box p{
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color:#eee;
     padding: 1rem 0;
+    text-align: justify;
 }
 
 .experiences .box-container .box i{
@@ -324,7 +325,7 @@ header .navbar ul li a:hover{
     border-radius: 50%;
     line-height: 5rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
     color:#fff;
     background:var(--yellow);
 }
