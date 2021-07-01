@@ -42,11 +42,14 @@ body{
     padding-left: 35rem;
 }
 
-section{
+section.home{
     min-height: 100vh;
+    padding:8%;
+}
+section{
+    min-height: 50vh;
     padding:1rem;
 }
-
 .btn{
     padding:.7rem 3rem;
     background:#333;
@@ -210,7 +213,7 @@ header .navbar ul li a:hover{
 
 .about .row .counter .box{
     width:20rem;
-    background:#222;
+    background:rgb(34, 34, 34);
     text-align: center;
     padding: 2rem;
     margin:2rem;
